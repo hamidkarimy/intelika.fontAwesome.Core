@@ -1,4 +1,4 @@
-﻿namespace intelika.fontAwesome
+﻿namespace intelika.fontawesome.wpf
 {
     public enum NormalIconType
     {
